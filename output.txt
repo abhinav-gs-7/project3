@@ -1,0 +1,68 @@
+Enter choice
+1.parttimeemployee
+2.fulltimeemployee
+3.exit
+1
+Enter choice
+1.add employee
+2.view employeeand details
+3.exit
+1
+Enter name
+vijay
+Enter id
+1
+hours worked
+90
+salary per hour
+200
+Enter choice
+1.add employee
+2.view employeeand details
+3.exit
+2
+Name of employee : vijay
+id of employee : 1
+Salary is : 18000.0
+Enter choice
+1.add employee
+2.view employeeand details
+3.exit
+3
+thankyou
+Enter choice
+1.parttimeemployee
+2.fulltimeemployee
+3.exit
+2
+Enter choice
+1.add employee
+2.view employeeand details
+3.exit
+1
+Enter name
+ajay
+Enter id
+1
+salary
+20000
+Enter choice
+1.add employee
+2.view employeeand details
+3.exit
+2
+Name of employee : ajay
+id of employee : 1
+Salary is : 20000.0
+Enter choice
+1.add employee
+2.view employeeand details
+3.exit
+3
+thankyou
+Enter choice
+1.parttimeemployee
+2.fulltimeemployee
+3.exit
+3
+thankyou
